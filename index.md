@@ -15,4 +15,6 @@ I am Elena Brancaleon, an undergraduate student at the University of Texas at Sa
   - Record XRD for Aluminum Oxide samples with the purpose of producing, characterizing, and determining optical properties of stardust analogs composed of aluminum and oxygen
 
 #### Research Presentations 
-
+1. Brancaleon, E., Mitra, K., Sankarasubramanian, S., (2024), Electrochemical Deconvolution of Oxyhalogen Intermediates and Implications for Martian Geochemistry, 3rd Annual UTSA Earth and Planetary Sciences Earth Day Symposium, April 20th, San Antonio, Texas
+2. [Brancaleon, E., Mitra, K., Sankarasubramanian, S., (2024), Deconvoluting Oxychlorine Chemistry on Mars, Second Texas Area Planetary Science Meeting, August 15th – 16th, San Antonio, Texas(pg 77/94)](https://drive.google.com/file/d/17kSupFJCrgi3--fEiE2FkWA5e0QUbko7/view)
+3. [Brancaleon, E., Mitra, K., Sankarasubramanian, S., (2025). Electrochemical Deconvolution of Oxyhalogen Intermediates and Implications for Martian Geochemistry, Lunar and Planetary Science Conference, March 9th - 14th, The Woodlands, Texas](https://www.hou.usra.edu/meetings/lpsc2025/pdf/2513.pdf)
