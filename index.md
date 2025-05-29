@@ -7,6 +7,18 @@ I am Elena Brancaleon, an undergraduate student at the University of Texas at Sa
 * [Github](https://el3branr0cks.github.io/)
 * [Facebook](https://www.facebook.com/profile.php?id=61559311957193)
 
+#### Skills 
+* Teamwork and collaboration
+* Communication skills
+* Adaptability and Flexibility
+* Creativity
+
+* ArcGIS Pro
+* MATLAB
+* Microsoft Office Tools
+* Foreign Language Proficiency
+    * Spanish and Italian
+
 #### Research Experience 
 - Laboratory for Experimental and Aqueous Planetology (2023 - present)
     - Oxychlorine Experiments
