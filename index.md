@@ -1,4 +1,3 @@
-! [MyImage](img/IMG_4378.jpeg)
 ## Elena Brancaleon
 I am Elena Brancaleon, an undergraduate student at the University of Texas at San Antonio majoring in Geology. I work as an undergraduate research assistant under the supervision of Dr. Kaushik Mitra in the [Department of Earth and Planetary Science](https://sciences.utsa.edu/eps/). My interests include climate science and cryospheric science. My hobbies include arts and crafts, reading, Python programming, and spending time outdoors in nature.
 
